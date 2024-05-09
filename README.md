@@ -1,8 +1,9 @@
 # 4 Digit, 7-Segment Breakout FPGA
-![alt text](7-Segment_Completed.png "PCB Completed")
+<img src="7-Segment_Completed.png" alt="PCB Completed" width="400"/>
+
 This breakout board was created to be used in my Ohio University Master's course. We were required to build this circuit on a breadboard but I wanted to help develop my PCB design skills. This is a 2 layer board and has 4 M3 mounting holes to add standoffs. This was designed using KiCAD and the PCB was produced by JLCPCB.
 
-![alt text](PCB_Layout.png "PCB Layout")
+<img src="PCB_Layout.png" alt="PCB Layout" width="400"/>
 
 ## Table of Contents
 - [4 Digit, 7-Segment Breakout FPGA](#4-digit-7-segment-breakout-fpga)
